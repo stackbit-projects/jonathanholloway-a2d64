@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: primary
     image: images/jon-profile-pic.jpeg
-    image_alt: Jonathan Holl
+    image_alt: Profile picture jonathan holloway
     media_position: right
     media_width: fifty
     align: left
