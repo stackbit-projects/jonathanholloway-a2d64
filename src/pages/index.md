@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: primary
     image: images/jon-profile-pic.jpeg
-    image_alt: A smiling woman
+    image_alt: Jonathan Holl
     media_position: right
     media_width: fifty
     align: left
